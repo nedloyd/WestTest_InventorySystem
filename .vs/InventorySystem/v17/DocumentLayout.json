@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Simelabs\\Documents\\Sinjo.Thomas@simelabs.com\\OneDrive - Groupe Astek\\Repo\\ApprenticeTrainingSample2\\WebApplication6West\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD73FE68-2C3C-40AF-B0A5-43B57D561BE6}|InventorySystem.API\\InventorySystem.API.csproj|c:\\users\\simelabs\\documents\\sinjo.thomas@simelabs.com\\onedrive - groupe astek\\repo\\apprenticetrainingsample2\\webapplication6west\\inventorysystem.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AD73FE68-2C3C-40AF-B0A5-43B57D561BE6}|InventorySystem.API\\InventorySystem.API.csproj|solutionrelative:inventorysystem.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Simelabs\\Documents\\Sinjo.Thomas@simelabs.com\\OneDrive - Groupe Astek\\Repo\\ApprenticeTrainingSample2\\WebApplication6West\\InventorySystem.API\\.gitignore",
+              "RelativeDocumentMoniker": "InventorySystem.API\\.gitignore",
+              "ToolTip": "C:\\Users\\Simelabs\\Documents\\Sinjo.Thomas@simelabs.com\\OneDrive - Groupe Astek\\Repo\\ApprenticeTrainingSample2\\WebApplication6West\\InventorySystem.API\\.gitignore",
+              "RelativeToolTip": "InventorySystem.API\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-24T08:45:56.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
